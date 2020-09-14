@@ -1,6 +1,6 @@
 # MVA-DLMI
 Deep Learning for Medical Imaging
-
+Khaoula Belahsen - Nadir El Manouzi
 
 # Data
 The images from the training set and the test set are in the folders train and test.
